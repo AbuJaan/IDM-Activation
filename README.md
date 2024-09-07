@@ -44,7 +44,7 @@ Last Release - v1.2 (12-Feb-2024)\
 
 ### Method 2 - Traditional
 
--   Download the file from [GitHub](https://github.com/AbuJaan/IDM-Activation/refs/heads/main.zip)
+-   Download the file from [GitHub](https://github.com/AbuJaan/IDM-Activation/archive/refs/heads/main.zip)
 -   Right-click on the downloaded zip file and extract
 -   In the extracted folder, run the file named `IAS.cmd`
 -   You will see the activation options, and follow onscreen instructions.
